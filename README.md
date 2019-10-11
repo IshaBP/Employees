@@ -1,6 +1,6 @@
 # Employees
 
-Example having usage of following concepts of Java:
+Practice - Example having usage of following concepts of Java:
 
 1)	Collections
 2)	Lambda Expressions
